@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_letmetalk"
+        android:icon="@android:drawable/ic_lock_silent_mode_off"
+        android:title="አጠቃላይ" />
+
+    <item
+        android:id="@+id/action_feelings"
+        android:icon="@drawable/feelings"
+        android:title="ስሜት" />
+    <item
+        android:id="@+id/action_food_drink"
+        android:icon="@drawable/foods_icon"
+        android:title="@string/title_food" />
+    <item
+        android:id="@+id/action_objects"
+        android:icon="@drawable/cabinet"
+        android:title="እቃ" />
+    <item
+        android:id="@+id/action_my_words"
+        android:icon="@drawable/words"
+        android:title="@string/title_my_words" />
+</menu>

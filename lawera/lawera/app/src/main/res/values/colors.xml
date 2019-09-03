@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <color name="colorPrimary">#fdad01</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#fdad01</color>
+    <color name="yellow">#ffbf00</color>
+    <color name="yellowish">#ffc61b</color>
+    <color name="b">#a338ce</color>
+    <color name="dark_blue">#21232e</color>
+    <color name="white">#ffffff</color>
+    <color name="furniture_yellow">#fbc400</color>
+    <color name="animals_green">#10ac84</color>
+    <color name="positive_green_button">#247b37</color>
+    <color name="positive_green">#abffc0</color>
+    <color name="food_red">#ee5253</color>
+    <color name="food_orange">#f49132</color>
+    <color name="shapes_dark_purple">#371449</color>
+    <color name="disabled_fab">#d3d3de</color>
+</resources>

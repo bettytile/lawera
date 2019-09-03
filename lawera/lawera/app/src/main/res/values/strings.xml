@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ላውራ</string>
+    <string name="action_settings">ማስተካከያ</string>
+    <string name="learn_btn">እንማር</string>
+    <string name="talk_btn">እናውራ</string>
+    <!--<string name="title_activity_learn">Learn</string>-->
+    <string name="title_words">ቃላት</string>
+    <string name="title_routine">መጀመሪያ ከዛ</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="toolbar_learn">እንማር</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shapes_card">የሰውነት ክፍል</string>
+    <string name="colors_card">ቀለማት</string>
+    <string name="food_card">ምግብ</string>
+    <string name="animals_card">እንስሳት</string>
+    <string name="furniture_card">የቤት እቃዎች</string>
+    <string name="clothes_card">አልባሳት</string>
+    <string name="lawra_logo">Lawra</string>
+    <string name="title_test">ፈተና</string>
+    <string name="title_profile">እኔ</string>
+    <string name="title_activity_lesson"> </string>
+    <string name="next_item_menu"> </string>
+    <string name="item_name">ድመት</string>
+    <string name="item_image">item image</string>
+    <string name="child_s_name">የኔ ስም</string>
+    <string name="say_name">ስሜ</string>
+    <string name="title_activity_talk">Talk</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_letmetalk">ላውራ</string>
+    <string name="title_my_words">የኔ ቃላት</string>
+    <string name="toolbar_talk">እናውራ</string>
+    <string name="title_activity_lesson_items_list"> </string>
+    <string name="title_activity_practice_one"> </string>
+    <string name="lesson">መልመጃ</string>
+    <string name="positive_button">እሺ</string>
+    <string name="title_food">ምግብ እና መጠጥ</string>
+    <string name="title_activity_user_profile"> </string>
+    <string name="score">ውጤት</string>
+    <string name="title_activity_custom_insert"> </string>
+    <string name="custom_insert_toolbartext">አዲስ ማስገቢያ</string>
+    <string name="select_img">ፎቶ ይምረጡ</string>
+    <string name="custom_insert_itemName">የእቃው ስም</string>
+    <string name="title_activity_routines"> </string>
+</resources>
